@@ -53,3 +53,14 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.card-group {
+  margin-top: 50px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.card-img-top {
+  height: 50px;
+  width: 50px;
+}
