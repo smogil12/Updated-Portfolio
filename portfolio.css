@@ -56,15 +56,11 @@ body {
 
 .card-group {
   margin-top: 100px;
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 60px;
+  margin-right: 60px;
 }
 
 .card-img-top {
   height: 50px;
   width: 50px;
-}
-
-.text-muted {
-  color: white;
 }
