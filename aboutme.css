@@ -1,0 +1,42 @@
+.my-row {
+  justify-content: center;
+  color: grey;
+}
+
+.contact {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-family: "Baskervville", serif;
+  font-size: 30px;
+  color: grey;
+}
+
+.about {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-family: "Baskervville", serif;
+  font-size: 30px;
+  color: grey;
+}
+
+.about:hover {
+  font-weight: bold;
+  color: yellow;
+}
+
+.contact:hover {
+  font-weight: bold;
+  color: red;
+}
+
+.portfolio:hover {
+  font-weight: bold;
+  color: green;
+}
+
+.portfolio {
+  color: gray;
+  font-family: "Baskervville", serif;
+  margin-top: 20px;
+  font-size: 30px;
+}
