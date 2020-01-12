@@ -25,4 +25,17 @@ $(document).ready(function() {
 
     $(".email").html(a);
   });
+  $(".github").on("click", function() {
+    var a = document.createElement("a");
+
+    var link = document.createTextNode("https://github.com/smogil12");
+
+    a.appendChild(link);
+
+    a.title = "This is Link";
+
+    a.href = "https://github.com/smogil12";
+
+    $(".github").html(a);
+  });
 });
