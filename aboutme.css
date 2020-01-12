@@ -50,3 +50,8 @@ body {
   margin-top: 20px;
   font-size: 30px;
 }
+
+.card-img {
+  height: 500px;
+  width: 500px;
+}
