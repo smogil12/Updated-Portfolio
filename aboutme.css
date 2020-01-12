@@ -1,3 +1,13 @@
+body {
+  justify-content: center;
+  background: url("https://ak2.picdn.net/shutterstock/videos/21348502/thumb/1.jpg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .my-row {
   justify-content: center;
   color: grey;
