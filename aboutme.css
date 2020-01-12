@@ -55,3 +55,8 @@ body {
   height: 190px;
   width: 190px;
 }
+
+.pic-row {
+  margin-top: 60px;
+  margin-left: 50px;
+}
