@@ -12,7 +12,7 @@ $(document).ready(function() {
     a.title = "This is Link";
 
     // Set the href property.
-    a.href = "https://www.geeksforgeeks.org";
+    a.href = "https://www.linkedin.com/in/spencer-mogil/";
 
     // Append the anchor element to the body.
     $(".linkedin").html(a);
